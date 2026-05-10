@@ -162,11 +162,9 @@ README.md
 # Video Demonstration
 
 YouTube Video Link:
-
 ```text
-PASTE_YOUR_VIDEO_LINK_HERE
+https://youtu.be/lHJ99Igyzoc?si=7bPjWbl0wGu9HKpW
 ```
-
 ---
 
 # GitHub Repository
