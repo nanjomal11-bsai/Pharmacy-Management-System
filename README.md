@@ -6,7 +6,7 @@ Pharmacy Management System is a Java-based desktop application developed using O
 The application provides a modern graphical user interface with database connectivity using MySQL for storing and retrieving records.
 # Presented By: 
 - Name: Nanjo Mal
-- CMS: 023-250226
+- CMS: 023-25-0226
 - Section: B
 
 ---
