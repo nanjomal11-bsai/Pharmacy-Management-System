@@ -172,7 +172,7 @@ https://youtu.be/lHJ99Igyzoc?si=7bPjWbl0wGu9HKpW
 GitHub Repository Link:
 
 ```text
-PASTE_YOUR_GITHUB_REPOSITORY_LINK_HERE
+(https://github.com/nanjomal11-bsai/Pharmacy-Management-System/blob/main/PharmacySystemProjectGUI.java)
 ```
 
 ---
